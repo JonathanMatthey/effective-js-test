@@ -1,4 +1,4 @@
-## Chapter 1: Accustoming yourself to javascript
+#### Chapter 1: Accustoming yourself to javascript
 
 1. Know which Javascript you are using
 
@@ -15,7 +15,7 @@
 7. Think of strings as sequences of 16 bit code units
 
 
-Chapter 2: Variable Scope
+#### Chapter 2: Variable Scope
 
 8. Mimize use of the global object
 
@@ -38,7 +38,7 @@ Chapter 2: Variable Scope
 17. Prefer indirect eval to direct eval
 
 
-Chapter 3: Working with functions
+#### Chapter 3: Working with functions
 
 18. Understand the difference between function method and constructor calls
 
@@ -65,7 +65,7 @@ Chapter 3: Working with functions
 29. avoid nonstandard stack inspection properties
 
 
-Chapter 4: Objects and Prototypes
+#### Chapter 4: Objects and Prototypes
 
 30. Understand the difference between prototype, getPrototypeOf and __proto__
 
@@ -94,7 +94,7 @@ Chapter 4: Objects and Prototypes
 42. avoid reckless money patching
 
 
-Chapter 5: Arrays and Dictionaries 
+#### Chapter 5: Arrays and Dictionaries 
 
 43. Build lightweight dictionaries from direct instances of object
 
@@ -117,7 +117,7 @@ Chapter 5: Arrays and Dictionaries
 52. prefer array litereals to the array constructor
 
 
-Chapter 6: Library and API Design
+#### Chapter 6: Library and API Design
 
 53. Maintain consistent conventions
 
@@ -136,7 +136,7 @@ Chapter 6: Library and API Design
 60. support method chaining
 
 
-Chapter 7: Concurrency
+#### Chapter 7: Concurrency
 
 61. Don't block the event queue on I/O
 
