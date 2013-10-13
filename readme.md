@@ -1,4 +1,4 @@
-Chapter 1: Accustoming yourself to javascript
+## Chapter 1: Accustoming yourself to javascript
 
 1. Know which Javascript you are using
 
