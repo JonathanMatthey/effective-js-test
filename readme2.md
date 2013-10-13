@@ -22,24 +22,24 @@
   -  Mixin Pattern
   -  Decorator Pattern
   -  Flyweight Pattern
-JavaScript MV* Patterns
-MVC Pattern
-MVP Pattern
-MVVM Pattern
-Modern Modular JavaScript Design Patterns
-AMD
-CommonJS
-ES Harmony
-Design Patterns In jQuery
-Composite Pattern
-Adapter Pattern
-Facade Pattern
-Observer Pattern
-Iterator Pattern
-Lazy Initialization Pattern
-Proxy Pattern
-Builder Pattern
-jQuery Plugin Design Patterns
-JavaScript Namespacing Patterns
-Conclusions
-References
+- JavaScript MV* Patterns
+  - MVC Pattern
+  - MVP Pattern
+  - MVVM Pattern
+- Modern Modular JavaScript Design Patterns
+  - AMD
+  - CommonJS
+  - ES Harmony
+- Design Patterns In jQuery
+  - Composite Pattern
+  - Adapter Pattern
+  - Facade Pattern
+  - Observer Pattern
+  - Iterator Pattern
+  - Lazy Initialization Pattern
+  - Proxy Pattern
+  - Builder Pattern
+- jQuery Plugin Design Patterns
+- JavaScript Namespacing Patterns
+- Conclusions
+- References
